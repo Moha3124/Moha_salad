@@ -1,0 +1,22 @@
+body {
+    background-color: cadetblue;
+}
+
+
+.A {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.B {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.C {
+
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+
+}
